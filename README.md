@@ -15,3 +15,6 @@
 
 <strong>     Martin Mojica <mgteam.martin@gmail.com> </strong><br />
 		I'm a computer science major interested in security. I enjoy learning new programming languages and tools. I hope to improve my knowledge and skills as the semester continues. Hope I can be of some help to my team.
+
+<strong>    Francisco Tadillo <franciscotadillo@gmail.com> </strong><br />
+            Computer Science major at California State University, Chico. I was debating whether going my own route or choosing a project that's already being worked on, but I ended up choosing this because of the cred we will earn from this project. From a professional stand-point, this seemed like the best choice. I'm excited to work hard with my team and learn the ins and outs of javascript. Looking forward to designing some functional and elegant-looking widgets.
