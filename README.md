@@ -1,4 +1,5 @@
 - Purpose
+  Design themeable, figurable and reusable user interface tools to be utilized in a larger project with the working name of Bossy UI.
 
 
 
