@@ -12,3 +12,6 @@
 
 <strong>     Lukas Fink <lfink579@googlemail.com> </strong><br />
                 International student from Germany. Major: Media Technologie with focus on Media Informatics. Enrolled to Software Engineering to get to know workflows and programming skills from the US as well as improving my own skills. 5th Semester in Germany.
+
+<strong>     Martin Mojica <mgteam.martin@gmail.com> </strong><br />
+		I'm a computer science major interested in security. I enjoy learning new programming languages and tools. I hope to improve my knowledge and skills as the semester continues. Hope I can be of some help to my team.
